@@ -6,8 +6,8 @@
 name: Заметки на коленке
 
 # Short bio or description (displayed in the header)
-description: Меня зовут Игорь Зайцев, я философ и это мой персональный блог.
-I'm hosted with GitHub Pages.
+description: Меня зовут Игорь Зайцев, я философ и это мой персональный блог. 
+
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
