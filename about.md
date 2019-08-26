@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Био
 permalink: /about/
 ---
 
-Some information about you!
+По образованию и интересам я философ, ученик безвременно ушедшего [Олега Михайловича Ноговицына](https://ru.wikipedia.org/wiki/Ноговицын,_Олег_Михайлович). Закончил Высшую Религиозно-Философскую Школу и философский факультет СПбГУ. 
 
-### More Information
+Сейчас я [доцент](https://pro.guap.ru/exters/profile/1813) университета Аэрокосмического приборостроения (ГУАП). 
 
-A place to include any other types of information that you'd like to include about yourself.
+Сферы научного интереса: история философии (античность, Новое и новейшее время); феноменология; философия религии, философская теология. 
 
-### Contact me
+Я со-председатель группы "[Философская теология](https://iota-web.org/philosophical-theology-group/)" в Международной православной богословский ассоциации.
 
-[email@domain.com](mailto:email@domain.com)
+Также заинтересован в исследованиях: культурология; история и теория медиа; академическое письмо. 
+
+Ссылки на мои аккаунты в социальных сетях внизу страницы. Дополнительно меня можно найти в [Google Scholar](https://scholar.google.ru/citations?user=RbXQ62UAAAAJ&hl=ru) и на [Академии](https://suai.academia.edu/IgorZaitsev). 
